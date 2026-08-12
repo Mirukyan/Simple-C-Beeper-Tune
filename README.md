@@ -38,9 +38,6 @@ Beep(D4, QUARTER);
    ```bash
    gcc "Tune I made.c" -o birthday_tune.exe
 
-```
-
-
 3. Run the executable and turn your sound up! 🔊
 ```bash
 .\birthday_tune.exe
