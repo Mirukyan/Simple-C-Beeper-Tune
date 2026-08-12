@@ -32,19 +32,36 @@ Beep(D4, QUARTER);
 * Windows OS
 * Any standard C compiler (GCC/MinGW, MSVC, or Clang)
 
-### Steps
-1. Open Command Prompt or Terminal in your project folder.
-2. Compile the code:
+## Steps
+
+```
+## How to Build & Run
+
+### Option 1: Dev-C++ (Recommended)
+1. Open **Dev-C++**.
+2. Go to `File` > `Open Single File...` (or press `Ctrl + O`) and select `Tune I made.c`.
+3. Click **Compile & Run** on the top toolbar (or press `F11`).
+
+### Option 2: Visual Studio Code
+1. Open the file in **VS Code**.
+2. Install the **Code Runner** extension.
+3. Open `Tune I made.c` and click the **Play (▶)** button in the top-right corner.
+
+### Option 3: Command Line (GCC)
+1. Ensure GCC/MinGW is added to your system PATH.
+2. Open Command Prompt in your project folder.
+3. Compile and run:
    ```bash
    gcc "Tune I made.c" -o birthday_tune.exe
-
-3. Run the executable and turn your sound up! 🔊
-```bash
-.\birthday_tune.exe
+   .\birthday_tune.exe
 
 ```
 
+```
 
+Dev-C++ comes with its own built-in GCC compiler bundled right into the app, which is why hitting **F11** in Dev-C++ works instantly without needing to configure environment variables in Windows!
+
+```
 
 ## What I Learned
 
