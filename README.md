@@ -52,11 +52,7 @@ Beep(D4, QUARTER);
    gcc "Tune I made.c" -o birthday_tune.exe
    .\birthday_tune.exe
 
-```
-
 Dev-C++ comes with its own built-in GCC compiler bundled right into the app, which is why hitting **F11** in Dev-C++ works instantly without needing to configure environment variables in Windows!
-
-```
 
 ## What I Learned
 
