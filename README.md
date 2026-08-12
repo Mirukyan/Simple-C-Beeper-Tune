@@ -33,11 +33,10 @@ Beep(D4, QUARTER);
 * Any standard C compiler (GCC/MinGW, MSVC, or Clang)
 
 ### Steps
-
 1. Open Command Prompt or Terminal in your project folder.
 2. Compile the code:
-```bash
-gcc main.c -o birthday_tune.exe
+   ```bash
+   gcc "Tune I made.c" -o birthday_tune.exe
 
 ```
 
