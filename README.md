@@ -34,8 +34,6 @@ Beep(D4, QUARTER);
 
 ## Steps
 
-## 🛠️ How to Build & Run
-
 ### Option 1: Dev-C++ (Recommended)
 1. Open **Dev-C++**.
 2. Go to `File` > `Open Single File...` (or press `Ctrl + O`) and select `Tune I made.c`.
