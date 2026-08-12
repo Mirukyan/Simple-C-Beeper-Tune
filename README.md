@@ -42,7 +42,7 @@ Beep(D4, QUARTER);
 ### Option 2: Visual Studio Code
 1. Open the file in **VS Code**.
 2. Install the **Code Runner** extension.
-3. Open `Tune I made.c` and click the **Play (▶)** button in the top-right corner.
+3. Open `Tune I made.c` and click the **Play** button in the top-right corner.
 
 ### Option 3: Command Line (GCC)
 1. Ensure GCC/MinGW is added to your system PATH.
