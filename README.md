@@ -34,8 +34,7 @@ Beep(D4, QUARTER);
 
 ## Steps
 
-```
-## How to Build & Run
+## 🛠️ How to Build & Run
 
 ### Option 1: Dev-C++ (Recommended)
 1. Open **Dev-C++**.
@@ -54,8 +53,6 @@ Beep(D4, QUARTER);
    ```bash
    gcc "Tune I made.c" -o birthday_tune.exe
    .\birthday_tune.exe
-
-```
 
 ```
 
