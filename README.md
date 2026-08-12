@@ -58,4 +58,4 @@ gcc main.c -o birthday_tune.exe
 
 ---
 
-Created by a college student exploring C programming
+Created by a college student exploring C programming (I've had help with professionals to make this simple code)
